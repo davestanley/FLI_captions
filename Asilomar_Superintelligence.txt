@@ -1,0 +1,779 @@
+
+
+0:09I'm going to ask a question, but you can only answer by saying either 'yes,' 'no,' or 'it's
+0:15complicated.'
+0:16Alright?
+0:17So, let's start over here.
+0:21Is some form of superintelligence possible, Jaan?
+0:27'Yes,' 'no,' or 'it's complicated.'
+0:30Yes.
+0:32Yes.
+0:34Yes.
+0:35Yes.
+0:36Yes.
+0:37Yes.
+0:38Definitely.
+0:40No.
+0:41Well, this was disappointing, we didn't find any disagreement.
+0:48Let's try harder.
+0:52Just because it's possible doesn't mean that it's actually going to happen.
+0:55So, before I asked if superintelligence was possible at all according to the laws of physics.
+1:00Now, i'm asking, will it actually happen?
+1:06A little bit complicated, but yes.
+1:09Yes, and if it doesn't then something terrible has happened to prevent it.
+1:14Yes.
+1:16Probably.
+1:18Yes.
+1:19Yes.
+1:21Yes.
+1:23Yes.
+1:25No.
+1:27Shucks, still haven't found any interesting disagreements.
+1:31We need to try harder still.
+1:33OK.
+1:34So, you think it is going to happen, but would you actually like it to happen at some point?
+1:41Yes, no, or it's complicated?
+1:49Complicated, leaning towards yes.
+1:54It's complicated.
+1:57Yes.
+1:59Yes.
+2:00It's really complicated.
+2:02Yes.
+2:03It's complicated.
+2:06Very complicated.
+2:07Well, heck, I don't know.
+2:10It depends on which kind.
+2:14Alright, so it's getting a little bit more interesting.
+2:17When I think, we had a really fascinating...
+2:19When is it going to happen?
+2:20Well, we had a really fascinating discussion already in this morning's panel about when
+2:25we might get to human level AI.
+2:26So, that would sort of put a lower bound.
+2:28In the interest of time, I think we don't need to rehash the question of when going
+2:32beyond it might start.
+2:34But, let's ask a very related question to the one that just came up here.
+2:37Mainly, the question of well if something starts to happen, if you get some sort of
+2:42recursive self improvement or some other process whereby intelligence and machines start to
+2:48take off very very rapidly, there is always a timescale associated with this.
+2:53And there I hope we can finally find some real serious disagreements to argue about
+2:58here.
+2:59Some people have been envisioning this scenario where it goes PHOOM and things happen in days or
+3:04hours or less.
+3:06Whereas, others envision that it will happen but it might take thousands of years or decades.
+3:12So, if you think of some sort of doubling time, some sort of rough timescale on which
+3:18things get dramatically better, what time scale would you guess at, Jaan?
+3:24Start now or starting at human level?
+3:26No, no, so once we get human level AI or whatever point beyond there or a little bit before
+3:33there where things actually start taking off, what is the sort of time scale?
+3:39Any explosion, as a nerdy physicist, has some sort of time scale, right, on which it happens.
+3:44Are we talking about seconds, or years, or millennia?
+3:49I'm thinking of years, but it is important to act as if this timeline was shorter.
+3:59Yeah, I actually don't really trust my intuitions here.
+4:02I have intuitions that we are thinking of years, but I also think human level AI is
+4:09a mirage.
+4:10It is suddenly going to be better than human, but whether that is going to be a full intelligence
+4:16explosion quickly, I don't know.
+4:20I think it partly depends on the architecture that ends up delivering human level AI.
+4:24So, this kind of neuroscience inspired AI that we seem to be building at the moment
+4:29that needs to be trained and have experience in order for it to gain knowledge that may
+4:34be, you know, on the order of a few years so possible even a decade.
+4:40Some numbers of years, but it could also be much less.
+4:44But, I wouldn't be surprised if it was much more.
+4:49Potentially days or shorter, especially if it's AI researchers designing AI researchers
+4:55Every time there is an advance in AI, we dismiss it as 'oh, well that's not really AI:' chess,
+5:01go, self-driving cars.
+5:03An AI, as you know, is the field of things we haven't done yet.
+5:07That will continue when we actually reach AGI.
+5:09There will be lots of controversy.
+5:11By the time the controversy settles down, we will realize that it's been around for
+5:16a few years.
+5:18Yeah, so I think we will go beyond human level capabilities in many different areas, but
+5:26not in all at the same time.
+5:29So, it will be an uneven process where some areas will be far advanced very soon, already
+5:35to some extent and other might take much longer.
+5:40What Bart said.
+5:41But, I think if it reaches a threshold where it's as smart as the smartest most inventive
+5:49human then, I mean, it really could be only a matter of days before it's smarter than
+5:57the sum of humanity.
+5:59So, here we saw quite an interesting range of answers.
+6:03And this, I find is a very interesting question because for reasons that people here have
+6:08published a lot of interesting papers about the time scale makes a huge difference.
+6:11Right, if it's something that happening on the time scale of the industrial revolution,
+6:15for example, that's a lot longer than the time scale on which society can adapt and
+6:21take measures to steer development, borrowing your nice rocket metaphor, Jaan.
+6:26Whereas, if things happen much quicker than society can respond, it's much harder to steer
+6:32and you kind of have to hope that you've built in a good steering in advance.
+6:37So, for example in nuclear reactors, we nerdy physicists like to stick graphite sticks in
+6:43a moderators to slow things down maybe prevent it from going critical.
+6:48I'm curious if anyone of you feels that it would be nice if this growth of intelligence
+6:57which you are generally excited about, with some caveats, if any of you would like to
+7:02have it happen a bit slower so that it becomes easier for society to keep shaping it the
+7:06way we want it.
+7:07And, if so, and here's a tough question, is there anything we can do now or later on when it
+7:13gets closer that might make this intelligence explosion or rapid growth of intelligence
+7:20simply proceed slower so we can have more influence over it.
+7:25Does anyone want to take a swing at this?
+7:27It's not for the whole panel, but anyone who...
+7:29I'm reminded of the conversation we had with Rich Sutton in Puerto Rico.
+7:34Like, we had a lot of disagreements, but definitely could agree about paths slower being better
+7:39than faster.
+7:40Any thoughts on how one could make it a little bit slower?
+7:46I mean, the strategy I suggested in my talk was somewhat tongue and cheek.
+7:50But, it was also serious.
+7:53I think this conference is great and as technologists we should do everything we can to keep the
+7:58technology safe and beneficial.
+8:05Certainly, as we do each specific application, like self-driving cars, there's a whole host
+8:09of ethical issues to address.
+8:11But, I don't think we can solve the problem just technologically.
+8:18Imagine that we've done our job perfectly and we've created the most safe, beneficial
+8:23AI possible, but we've let the political system become totalitarian and evil, either a evil
+8:31world government or even just a portion of the globe that is that way, it's not going
+8:38to work out well.
+8:39And so, part of the struggle is in the area of politics and social policy to have the
+8:46world reflect the values want to achieve because we are talking about human AI.
+8:51Human AI is by definition at human levels and therefore is human.
+8:57And so, the issue of how we make humans ethical is the same issue as how we make AIs that
+9:03are human level ethical.
+9:05So, what i'm hearing you say is that before we reach the point of getting close to human
+9:11level AI, a very good way to prepare for that is for us humans in our human societies to
+9:17try and get our act together as much as possible and have the world run with more reason than
+9:24it, perhaps, is today.
+9:25Is that fair?
+9:27That's exactly what I'm saying.
+9:28Nick? Also, I just want to clarify again that when I asked about what you would do to slow things
+9:33down i'm not talking at all about slowing down AI research now.
+9:37We're simply talking about if we get to the point where we are getting very near human
+9:41level AI and think we might get some very fast development, how could one slow that
+9:46part down?
+9:47So, one method would be to make faster progress now, so you get to that point sooner when
+9:53hardware is less developed, you get less hardware overhang.
+9:56However, the current speed of AI progress is a fairly hard variable to change very much
+10:02because there are very big forces pushing on it, so perhaps the higher elasticity option
+10:06is what I suggested in the talk to ensure that whoever gets there first has enough of
+10:10a lead that they are able to slow down for a few months, let us say, to go slow during
+10:15the transition.
+10:16So, I think one thing you can do, I mean this is almost in the verification area, is to
+10:23make systems that provably will not recruit additional hardware or resigned their hardware,
+10:28so that their resources remain fixed.
+10:31And i'm quite happy to sit there for several years thinking hard about what the next step
+10:37would be to take.
+10:38But, it's trivial to copy software.
+10:39Software is self replicating and always has been and I don't see how you can possibly
+10:44stop that.
+10:45I mean, I think it would be great if it went slow, but it's hard to see how it does go
+10:49slow given the huge first mover advantages and getting to superintelligence.
+10:54The only scenario that I see where it might go slow is where there is only one potential
+11:00first mover that can then stop and think.
+11:02So, maybe that speaks to creating a society where, you know, AI is restrictive and unified, but without
+11:10multiple movers.
+11:11Yeah, Demis, so your colleague Sean Legg mentioned that the one thing that could help a lot here
+11:16is if there's things like this industry partnership and a sense of trust and openness between
+11:21the leaders, so that if there is a point where one wants to...
+11:24Yeah, I do worry about, you know, that sort of scenario where, you know, I think, I've
+11:29got quite high belief in human ingenuity to solve these problems given enough time. the
+11:36control problem and other issues.
+11:38They're very difficult, but I think we can solve them.
+11:40The problem is will there, you know, the coordination problem of making sure there is enough time
+11:44to slow down at the end and, you know, let Stuart think about this for 5 years.
+11:47But, what about, he may do that, but what about all the other teams that are reading
+11:50the papers and not going to do that while you're thinking.
+11:53Yeah, this is what I worry about a lot.
+11:57It seems like that coordination problem is quite difficult.
+11:59But, I think as the first step, may be coordinating things like the Partnership on AI, you know,
+12:05the most capable teams together to agree, at least agree on a set of protocols or safety
+12:08procedures, or things, you know, agree that, maybe, you know, you should verify these systems
+12:13and that is going to take a few years and you should think about that.
+12:15I think that would be a good thing.
+12:18I just want to caveat one thing about slowing versus fast progresses, you know, it could
+12:23be that, imagine there was a moratorium on AI research for 50 years, but hardware continued
+12:27to accelerate as it does now.
+12:29We could, you know, this is sort of what Nick's point was is that there could be a massive
+12:35hardware overhang or something where an AI actually many, many, many different approaches
+12:39to AI including seed AI, self-improving AI, all these things could be possible.
+12:44And, you know, maybe one person in their garage could do it.
+12:48And I think that would be a lot more difficult to coordinate that kind of situation, whereas,
+12:51so, I think there is some argument to be made where you want to make fast progress when
+12:55we are at the very hard point of the 's' curve.
+12:57Where actually, you know, you need quite a large team, you have to be quite visible,
+13:01you know who the other people are, and, you know, in a sense society can keep tabs on
+13:05who the major players are and what they're up to.
+13:09Whereas, opposed to a scenario where in say 50 or a 100 years time when, you know, someone,
+13:13a kid in their garage could create a seed AI or something like that.
+13:17Yeah, Bart, one last comment on this topic.
+13:19Yeah, I think that this process will be a very irregular process and sometime we will
+13:23be far advanced and other times we will be going quite slow.
+13:28Yeah, i'm sort of hoping that when society sees something like fake video creation where
+13:35you create a video where you have somebody say made up things and that society will actually
+13:41realize that there are these new capabilities for the machines and we should start taking
+13:47the problem as a society more seriously before we have full and general AI.
+13:52We'll use AI to detect that.
+13:56So, you mentioned the word 'worry' there, and you Nick went a bit farther, you had the word
+14:02'doom' written on your slides three times.
+14:05No wonder there was one star on Amazon on that rating and that it was even in red color.
+14:12I think it's just as important to talk about existential hope and the fantastic upside
+14:17as downside and I want to do a lot of that here.
+14:20So, let's just get some of those worries out of the way now and then return to the positive
+14:26things.
+14:27I just want to go through quickly and give each one of you a chance to just pick one thing
+14:33that you feel is a challenge that we should overcome and then say something about what you feel
+14:38is the best thing we can do, right now, to try to mitigate it.
+14:45Do you want to start Jaan?
+14:47To mitigate what?
+14:50Mention one thing that you're worried could go wrong and tell us about something constructive
+14:56that we can do now that will reduce that risk.
+15:01I do think that AI arms races, I see like a lot of, like, good.
+15:06I'm really heartened to see kind of great contacts between OpenAI and DeepMind, but
+15:11I think this is just like a sort of toy model of what the world at large might come up with
+15:20in terms of arms races.
+15:22And for myself I have been spending increasing amount of time in Asia recently just to kind
+15:28of try to kind of pull in more people elsewhere, what has been so far, just been, kind of like, an Anglo-
+15:37American discussion mostly.
+15:40So, like this is, I think, this is one thing that should be done and i'm going to do it.
+15:47Well, as someone who is outside this field, I think the challenge i'm really in touch
+15:53with is how hard it is to take the safety concerns emotionally seriously.
+16:00And how hard it is for people in the field to do that as well.
+16:03I can't tell you have many people outside this room who purport to be experts think
+16:09the control problem is a total non-issue.
+16:11I mean, it's just flabbergasting to meet these people and just therefore not worth thinking
+16:17about.
+16:18And one of the reasons I think is that in one case there is this illusion that the time
+16:24horizon matters.
+16:25If you feel that this is 50 or a 100 years away that is totally consoling, but there
+16:32is an implicit assumption there,
+16:33the assumption is that you know how long it will take to build this safely. And that 50
+16:37or a 100 years is enough time.
+16:40The other issue is, I think, most people feel like intelligence is an intrinsic good and
+16:46of course we want more of it and it's very easy to be in touch with that assumption because
+16:51right now there is a cure for cancer, which we have not discovered.
+16:54Right, how galling is that?
+16:57But for more intelligence, but for knowing which experiments to run, or how to integrate
+17:03the data we already have in hand, we would have a cure for cancer that was actionable
+17:08now unless there was some physical law of the universe that prevented us from curing
+17:12cancer, which seems unlikely.
+17:14So, the pain of not having enough intelligence is really excruciating when you focus on it,
+17:24but, and I think to your previous question of doing this quickly becomes an intrinsic
+17:30good provided we have solved the alignment problems and the political problems and the
+17:35chaos that would follow if we were just, if we did it quickly without solving those problems.
+17:42So, I think, it's the thing that is alarming is how ethereal these concerns are even to
+17:51those who have no rational argument against them.
+17:55So, Sam it sounds to me like you're agreeing very strongly with what Shane Legg that there
+18:00is, in some circles, still this strong taboo that, you know, don't even consider the possibility
+18:06that we might get AGI because it's just absolutely ridiculous.
+18:13And he was arguing that the sooner we can get rid of this taboo the sooner people can
+18:17get to work and find all these really helpful solutions and answers that we need.
+18:21So, suppose for a moment that I came up to you and said to you "this idea of super human
+18:29intelligence just sounds absolutely ridiculous, sounds completely nuts.
+18:33And by the way i've never seen your ted talk."
+18:35And we're in an elevator and you have only 30 seconds to persuade me to take this more
+18:41seriously, what would you say?
+18:44A lot of people who are here will have this exact conversation with colleagues and others
+18:49in the future.
+18:51Well, there are very few assumptions you need to make to take this seriously, intellectually.
+18:56Again, the emotional part is a separate piece.
+18:59But, if you assume that intelligence is just, on some level, the product of information
+19:05processing in a physical system and there are very few people who dispute that who are
+19:10scientifically literate at this point and you assume that we will continue to improve
+19:16our information processing systems, unless something terrible happens to us to prevent
+19:22that, and that seems like a very safe assumption, then it is just a matter of time before we
+19:28instantiate something that is human level and beyond in our computers.
+19:35And, again, the time horizon is only consoling on the assumption that we know we have enough
+19:42time to solve the alignment problems and the political problems.
+19:46The other thing that is humbling here that Ray brought up at one point is that even if
+19:50we were handed a perfectly benign, well behaved AI just from god, you know, we are given a
+19:57perfect oracle we are given a perfect inventor of good technology, given our current political
+20:04and economic atmosphere that would produce total chaos.
+20:08We just have not... we don't have the ethical or political will to share the wealth, we
+20:14don't have the political integration to deal with this thing being given to Silicon Valley
+20:21and not being given at the same moment to China or Iran.
+20:25So, there is just, it's alarming that the best case scenario currently, basically just
+20:33ripping out 80% of Nick's book because we've solved all those problems, is still a terrifying
+20:40one. And so, clearly, that's a near term thing that we have to solve.
+20:44Thank you, Sam.
+20:46So, Demis do you want to tell us about one thing that you feel is a challenge and say
+20:51something about what we should focus on now to tackle it.
+20:54Yeah, I mean I think it's, you know I agree with both the statements already said that,
+20:59so I think the coordination problem is one thing where you know we want to avoid this
+21:03sort of harmful race to the finish where corner cutting starts happening and things like safety
+21:09are easy things to, you know, will get cut because obviously they don't necessarily contribute
+21:16to AI capability, in fact they may hold it back a bit by making a safe AI.
+21:20So, I think that's going to be a big issue on a global scale and that seems like it's
+21:25going to be a hard problem when we are talking about national governments and things.
+21:30And I think also, you know, we haven't thought enough about the whole governance scenario
+21:34of how do we want those AIs to be out in the world?
+21:39How many of them?
+21:40Who will set their goals?
+21:42All these kinds of things, I think, need a lot more thought.
+21:45You know, once we've already solved the technical problems.
+21:48I think it's wonderful that you're not just saying these things, but actually doing these
+21:52things since you played a leading role in setting up the Partnership on AI here which
+21:55goes exactly in the direction of what you're advocating here.
+21:58So, do you want to pass it off to Nick?
+22:00I'm sure there is nothing at all you're worried about, right?
+22:02So, tell us about one concrete useful thing you would to see us focus on.
+22:06So, I agree with that, I mean, so fun technical work, bring in top technical talent to work
+22:09on these technical issues, build these collaborations, build a community, build trust, work some
+22:16more on figuring out attractive solutions to the governance solutions that could work,
+22:20but don't rush to implement the first idea you have, but first trial them out a little
+22:23bit more.
+22:27I think a lot about consciousness, so I was really struck by the 'sentience caution' on
+22:33the list of principles here that said "avoid overly... avoid strong assumptions about the
+22:39distribution of consciousness in AIs," which I take it entails avoid assuming that any
+22:45human level or super human level AGI is going to be conscious.
+22:50For me, that raising the possibility of a massive failure mode in the future, the possibility
+22:56that we create human or super human level AGI and we've got a whole world populated
+23:00by super human level AGIs, none of whom is conscious.
+23:04And that would be a world, could potentially be a world of great intelligence, no consciousness
+23:10no subjective experience at all.
+23:11Now, I think many many people, with a wide variety of views, take the view that basically
+23:17subjective experience or consciousness is required in order to have any meaning or value
+23:22in your life at all.
+23:23So therefore, a world without consciousness could not possibly a positive outcome.
+23:25maybe it wouldn't be a terribly negative outcome, it would just be a 0 outcome, and among the
+23:30worst possible outcomes.
+23:31So, I worry about avoiding that outcome.
+23:33Now, as a matter of fact, i'm fairly optimistic about the possibilities that AIs of various
+23:39kinds will be conscious.
+23:40But, in so far as this community is making this assumption, I think it's important to
+23:45actually think about the question of 'in creating AGIs, are we actually creating conscious beings?'
+23:51I mean, one thing we ought to at least consider doing there is making, given that we don't understand
+23:56consciousness, we don't have a complete theory of consciousness, maybe we can be most confident
+24:00about consciousness when it's similar to the case that we know about the best, namely human
+24:05human consciousness...
+24:06So, therefore maybe there is an imperative to create human-like AGI in order that we
+24:11can be maximally confident that there is going to be consciousness.
+24:14So, what I hear you say is that when you have a nightmare about the zombie apocalypse you're
+24:20not thinking of some terminator movie, but you're thinking about this problem.
+24:24We create... we upload ourselves and do all these wonderful things, but there's no one
+24:30home.
+24:31Is that fair to say?
+24:32I mean this is a different kind of existential risk.
+24:33One kind of existential risk is there's no humans, there's AIs, but some people might
+24:37say well that's OK they are our successors.
+24:39A much worse existential risk is there are no conscious beings in our future.
+24:43So, i'll make a confession, so Shane Legg mentioned that there has been this strong taboo about
+24:49talking about the possibility of intelligence getting very advanced.
+24:55It's clearly also been a strong taboo for a long time to mention the C-word.
+24:58In fact, before the conference when we got all these responses on the first round of
+25:03the principles, guess which one was ranked last?
+25:06It got huge amounts of minus 1 ratings, that was the one with consciousness, so we changed
+25:12it to-- it was terribly stated --sentience and stated it better and then it got stated
+25:16still better at lunch and it's still rated last.
+25:20Even though I personally share your interests in this a lot.
+25:2288% of people agreed to the sentient caution.
+25:24But, not 90%, so that one also fell off the list here.
+25:27So, maybe that is another taboo you can personally help us shatter so that people think about
+25:33that question more.
+25:34Ray, anything you're concerned about?
+25:35This isn't what I was going to say, but just to respond... a converse concern is we create
+25:45AGIs, everybody assumes that of course it's just a machine and therefore it's not conscious,
+25:50but actually it is suffering but we don't look out for it's conscious subjective experience
+25:55because we are making the wrong assumption.
+25:58But, what I did want to say was, there are three overlapping revolutions that people
+26:04talk about, GNR, genetics, bio-tech, nano-technology, and robotics, which is AI.
+26:11And there are proposals, there was the Asilomar conferences done here decades ago for bio-tech
+26:18that have worked fairly well.
+26:20There are similar proposals for nano-technology.
+26:24There is a difference with AI in that there really isn't a full proof technical solution
+26:33to this.
+26:34You can have technical controls on, say, nano-technology.
+26:39One of the guidelines is it shouldn't be self-replicating.
+26:41That's not really realistic because it can't scale to meaningful quantities without being
+26:47self-replicating, but you can imagine technical protections.
+26:52If you have an AI that is more intelligent than you and it's out for your destruction
+26:56and it's out for the world's destruction and there is no other AI that is superior to it,
+27:02that's a bad situation.
+27:04So, that's the specter.
+27:07And partly this is amplified by our observation of what we as humans, the most intelligent
+27:12species on the planet, have done to other species.
+27:15If we look at how we treat animals, people, you know, are very friendly, like their dogs
+27:21and pets, but if you look at factory farming we're not very benign to species that are
+27:30less intelligent than us.
+27:32That engenders a lot of the concern we see that if we there's a new type of entity that's
+27:41more intelligent than us it's going to treat us like we've treated other species.
+27:45So, that's the concern.
+27:47I do think that what we are doing at this conference is appropriate.
+27:52I wanted to mention that I think we should publish these guidelines the way the Asilomar
+27:58guidelines in bio-tech were published decades ago.
+28:01And then people can and people can, you can have an opt-in, opt-out, but I think we should
+28:06actually say we had this conference and the AI leadership/community has come up with these
+28:13guidelines and people can respond to them and debate them and then maybe at the next
+28:18conference we'll revise them.
+28:19The Asilomar bio-tech guidelines have been revised many times.
+28:24But, I would advocate that we actually take a stand and put forth these guidelines and
+28:32then let the whole community at large debate them.
+28:36And have them be, have them guide our research.
+28:41It's actually worked quite well in bio-tech.
+28:46Bart?
+28:47OK, yeah so let me give a little different perspective.
+28:50So, one concern I have at the high level is these machines become really smart or even
+28:56in certain areas, can humans still understand, what they, decisions that they suggested,
+29:01that they make.
+29:02And I work in the field of automated reasoning where we have significant advance last two
+29:08decades going from perhaps a few hundred variables to perhaps millions of variables being solved
+29:14quite routinely.
+29:16And there was a sense in the community, well we are getting answers from these reasoning
+29:20engines, mostly hardware/software verification problems, but we cannot, humans can no longer
+29:26understand these answers.
+29:28In the last few years, people have actually discovered that you can use the machine to
+29:34generate explanations for their answers that are, again, human understandable.
+29:40So, I see sort of a glimmer of hope that maybe even if we have much less intelligence we
+29:46may be able to understand solutions that machines find for us and we could not find these solutions,
+29:53but they may be able to provide explanations that are accessible to us.
+29:57So that's a little positive note.
+30:00Thank you.
+30:00Stuart?
+30:03So there are two things that keep me awake at night, other than email.
+30:09So, one is the problem of misuse and bad actors.
+30:14To take an analogy, it’s as if we were building nuclear weapons and then delivering them by
+30:20email to everybody on the planet, saying, here’s a toy, do what you want.
+30:26How do we counter that? I have to say, I don’t really have a good solution.
+30:31I think one of the things we have to do is to make designs for safe AI very clear and
+30:41simple, and sort of make it unthinkable to do anything other than that, right?
+30:45Just like it’s unthinkable to have a program with an infinite loop that produces a spinning
+30:50pizza of death on your -- oh sorry.
+30:53Or it’s unthinkable to have a buffer overflow that allows your software to be hacked into.
+31:01The other thing that keeps me awake is actually the possibility that success would lead to
+31:10AI as a helicopter parent for the human race that would sort of ossify and gradually enfeeble
+31:17us, so then there would be no point at which it was obvious to us that this was happening.
+31:25And I think the mitigation, which you asked for, to look on the bright side, is that in
+31:31some sense the meta-value of human evolvability, the freedom to change the future, is something
+31:41that the AI needs to adopt, and in some sense that would result eventually with the AI receding
+31:48into the background, and saying, OK, now I’ve got you through your adolescence, now it’s
+31:53time for the human race to grow up, now that we have the capabilities to eliminate scarcity,
+31:58to eliminate needless conflict and coordination failures and all of those things that we suffer
+32:03from right now.
+32:06So I can imagine a distant future where, in fact, AI is perhaps even less visible than it is
+32:11today.
+32:12Great, finally you, Elon, have as far as I know never ever expressed any concerns about
+32:18AI, right - I’m just wondering if there is any concerns, in particular any concerns
+32:29where you see there’s a very clear thing we should be doing now that are going to help.
+32:35I’m trying to think of what is an actual good future, what does that actually look
+32:41like, or least bad, or however you want to characterize it.
+32:49Because to a point that was made earlier by Sam and maybe made by others, we’re headed towards either
+32:57superintelligence or civilization ending.
+33:01Those are the two things that will happen - intelligence will keep advancing, the only
+33:07thing that would stop it from advancing is something that puts civilization into stasis
+33:14or destroys civilization.
+33:15So, we have to figure out, what is a world that we would like to be in where there is this digital superintelligence?
+33:27I think, another point that is really important to appreciate is that we are, all of us, already
+33:35are cyborgs.
+33:38So you have a machine extension of yourself in the form of your phone and your computer
+33:44and all your applications.
+33:45You are already superhuman.
+33:47By far you have more power, more capability, than the President of the United States had
+33:5430 years ago.
+33:56If you have an Internet link you have an article of wisdom, you can communicate to millions
+34:01of people, you can communicate to the rest of Earth instantly.
+34:06I mean, these are magical powers that didn’t exist, not that long ago.
+34:11So everyone is already superhuman, and a cyborg.
+34:16The limitation is one of bandwidth.
+34:20So we’re bandwidth-constrained, particularly on output.
+34:24Our input is much better but our output is extremely slow.
+34:28If you want to be generous you could say maybe it’s a few hundred bits per second, or a
+34:33kilobit or something like that output.
+34:35The way we output is like we have our little meat sticks that we move very slowly and push
+34:43buttons, or tap a little screen.
+34:47And that’s extremely slow.
+34:50Compare that to a computer which can communicate at the terabyte level.
+34:55These are very big orders of magnitude differences.
+34:59Our input is much better because of vision, but even that could be enhanced significantly.
+35:05So I think the two things that are needed for a future that we would look at and conclude
+35:14is good, most likely, is, we have to solve that bandwidth constraint with a direct neural
+35:23interface.
+35:24I think a high bandwidth interface to the cortex, so that we can have a digital tertiary
+35:29layer that’s more fully symbiotic with the rest of us.
+35:36We’ve got the cortex and the limbic system, which seem to work together pretty well - they’ve
+35:41got good bandwidth, whereas the bandwidth to additional tertiary layer is weak.
+35:48So I think if we can solve that bandwidth issue and then AI can be widely available.
+35:55The analogy to a nuclear bomb is not exactly correct - it’s not as though it’s going
+36:00to explode and create a mushroom cloud, it’s more like if there were just a few people
+36:08that had it they would be able to be essentially dictators of Earth, or whoever acquired it
+36:18and if it was limited to a small number of people and it was ultra-smart, they would
+36:23have dominion over Earth.
+36:24So I think it’s extremely important that it be widespread and that we solve the bandwidth
+36:29issue.
+36:31And if we do those things, then it will be tied to our consciousness, tied to our will,
+36:38tied to the sum of individual human will, and everyone would have it so it would be
+36:44sort of still a relatively even playing field, in fact, it would be probably more egalitarian
+36:51than today.
+36:53Great, thank you so much, that’s in fact the perfect segue into the last question I
+36:57want to ask you before we open it up to everybody.
+37:01Something I have really missed in the discussion about really advanced intelligence, beyond
+37:08human, is more thought about the upside.
+37:12We have so much talk about existential risk, and not just in the academic context, but
+37:20just flip on your TV, check out Netflix, what do you see there in these scientific visions
+37:28of the future?
+37:29It’s almost always dystopias, right?
+37:31For some reason fear gives more clicks than the positive visions, but if I have a student
+37:37coming into my office at MIT asking for career advice, the first thing I’m going to ask
+37:42her is, where will you want to be in 20 years?
+37:46And if she just says, well maybe I’ll get cancer, maybe I’ll get run over by a bus,
+37:52that’s a terrible way to think about career planning, right?
+37:55I want her to be on fire and say my vision is I want to do this - and here are the things
+38:00that could go wrong, and then you can plan out how to avoid those problems and get it
+38:04out - I would love to see more discussion about the upsides, futures we’re really
+38:09excited about, so we can not just try to avoid problems for the sake of avoiding problems,
+38:16but to get to something that we’re all really on fire about.
+38:19So to start off I’ll just tell you something that makes me really excited about advanced
+38:26artificial intelligence.
+38:28Everything I love about civilization is a product of intelligence.
+38:34If we for some reason were to say, well, you know, I’m scared about this technology thing, let’s
+38:38just press pause on it forever, there’s no interesting question about if we’re going
+38:45to have human extinction, the question is just ‘when?'
+38:49Is it going to be a supervolcano, is it going to be the next dinosaur-killing-class asteroid
+38:56- the last one happened 60 million years ago, so how long is it going to be?
+39:01Pretty horrible future to just sit and wonder when we’re going to get taken out here without
+39:05the technology when we know that we totally have the brainpower to solve all of these
+39:10problems if we proceed forward and develop technology.
+39:14So that was just one thing that makes me very excited about moving forward rather than pressing 'Pause.'
+39:22I want to just ask the same question to all of you guys in turn.
+39:24So tell us, just pretty briefly, about something that you are really excited about.
+39:30Some future vision you imagine with very advanced artificial intelligence that you’re really excited about, that you would like to see.
+39:37Jaan-
+39:38So I want to be careful when I imagine concrete fruits of AGI.
+39:48On a meta-level I think as a first approximation, I think we should just maximize the amount
+39:54of fun and minimize the amount of suffering.
+39:57I think Eliezer [Yudkowsky] has written a sequence called “Fun Theory”, where he points out that
+40:04people have been horrible imagining, are very unimaginative imagining paradises of various
+40:11sorts, just like really boring places, actually, when you think about them.
+40:14I think Eliezer has this sketch where he says, “It was hard to spend like one weekend with my relatives.
+40:20Imagine spending eternity with your dead relatives.”
+40:27So I think we should be concerned about side effects and try to capture dynamics of improvement,
+40:35and basically go from there - make sure that we’re going to adjust the trajectory as
+40:42we get smarter and more grown together.
+40:48Great, thank you, Jaan.
+40:49Sam, what do you get excited about?
+40:52Well, strangely, what excites me really just abuts the parts that scare me the most.
+40:59I think what is nice about this conversation, in particular about the alignment problem,
+41:05is that it’s forcing us to realize that there are better and worse answers to questions
+41:10of human value.
+41:12And as someone said, perhaps at this last meeting in Puerto Rico, we really have to
+41:16do philosophy on a deadline, and we have to admit to ourselves that there are better and
+41:21worse answers and we have to converge on the better ones.
+41:25And what would excite me about actually the birth of superintelligent AI - one of the things,
+41:30apart from solving obvious problems like curing disease and energy issues and all the rest,
+41:37perhaps differs a little bit with what Stuart said.
+41:41I’m not so worried about idiocracy or all of us just losing our way as apes and living
+41:53unproductive lives in dialogue with these oracles.
+41:58I think actually, I would want a truly value-aligned superintelligence to incrementally show us,
+42:08not merely conserve what we want, but show us what we should want to keep improving our
+42:12values so that we can navigate in the space of all possible experiences and converge on
+42:19better and better ones.
+42:20Thank you, Sam, and what about you, Demis?
+42:22So obviously this is why I spend my whole career working on this, is that, I think if
+42:26we do this right, it’s going to be the greatest thing ever to happen to humanity,
+42:30and in some ways I think unlock our full potential.
+42:33I mean, I’ve talked to a lot about, in all my talks about using it as a tool to help
+42:37us make science and medical breakthroughs faster.
+42:39And so I think that’s an obvious one.
+42:41But taking that longer-term, one reason I got so into AI is that, like probably many
+42:45of you in this room, I’m interested in the biggest questions of why we’re here, understanding
+42:50our minds, what is consciousness, what’s the nature of the universe, what’s our purpose
+42:55- and if we’re going to try and really grapple with any of those questions I think we’re
+42:59going to need something like AI, perhaps with ourselves enhanced as well.
+43:02And I think in that future world we’ll have a chance to actually find out about some of
+43:07these really deep questions in the same way we’re finding out with AlphaGo just about Go,
+43:13but what if we could do that with all of science and physics and the biggest questions
+43:17in the universe.
+43:19And I think that’s going to be the most exhilarating journey of all, to find that out.
+43:24To just carry out on a few other things that people commented on is in terms of
+43:28us as the most intelligent beings on the planet right now, and treating animals badly and these
+43:33sorts of things, I think if you think about it though - let’s take tigers or something in India.
+43:38They have huge ranges and those people are very poor and they’re resource-poor, but
+43:43if they had abundant resources I don’t think they’re intentionally trying to kill off
+43:46these tigers - in some cases they are - but often it’s just because they need the land
+43:51for their cattle, and the tiger needs whatever number of kilometers squared to live, one tiger.
+43:57And it’s just difficult with the number of people that are there.
+43:59So I think if we solve the kind of abundance and scarcity problem, then I think that opens up
+44:04a lot of conflicts both between humans as well as to do with resource scarcity, at the heart of it.
+44:10So I see, if we can solve a lot of these problems I can see a much better future.
+44:16So Nick, you pointed out, the upside part of your book was a little shorter,
+44:21so now you have a chance to add something positive.
+44:24What are you excited about?
+44:27There are really two sides to that.
+44:28So one is getting rid of a lot of the negatives, like the compassionate use to cure diseases
+44:32and all other kinds of horrible miseries that exist on the planet today.
+44:37So that is a large chunk of the potential.
+44:40But then beyond that, if one really wants to see realistically what the positive things
+44:45are that could be developed, I think one has to think outside the constraints of our current
+44:53human biological nature.
+44:54That it’s unrealistic to imagine a trajectory stretching hundreds of thousands of years
+44:59into the future, we have superintelligence, we have material abundance, and yet we are
+45:03still these bipedal organisms with three pounds of gray tissue matter, with a fixed set of
+45:13emotional sensitivities and the hedonic set point that is kind of OK-ish for most people
+45:17but if you get - if something really good happens it lasts for a time and then you’re
+45:22back to the baseline.
+45:23I think all of these basic parameters that sort of define the human game today, I think
+45:27become up for grabs in this future.
+45:30And it opens up this much vaster space of post-human modes of beings, some of which
+45:36I think could be wonderful, literally beyond our ability to imagine, in terms of the mental states,
+45:43the types of activities, the understanding, the ways of relating.
+45:48So I don’t think we need a detailed blueprint for utopia now, what we need is to get ourselves
+45:52in a position later on where we can have the ability to use this to realize the values
+45:59that come into view once we’ve taken steps forward.
+46:02Thank you, Nick.
+46:03What about you, David?
+46:05I’m excited about the possibilities for AI making us humans smarter.
+46:09I mean some of it is selfish - I turned 50 last year, my brain is gradually becoming
+46:17slower and older and dumber, but I’m not sure that I am, and that’s partly because
+46:23of all of the augmented intelligence technology we’re using.
+46:28Smartphones, and the Internet, and so on, they’re giving me all kinds of capacities,
+46:33extended capacities that I didn’t have before.
+46:36And I’m really looking forward to AI helping with that.
+46:39In ten years or so once everyone is wearing augmented reality glasses with deep learning
+46:44built into it, then I’m really going to need that around 60.
+46:49And if you guys really get on the case and by the time I’m 70 or so we've got
+46:55real genuine AI or AI modules out there which can somehow come to be integrated with my
+47:02brain processes or maybe eventually we get to upload our entire brains onto AI, then there's a
+47:09way potentially to get smarter, more intelligent forever.
+47:12And this is not just selfish, although I can't say that doesn't motivate me,
+47:17but Demis talked about the AI scientists; I also like to think about the AI philosopher.
+47:22The problems of philosophy are really hard and many people have speculated that we humans
+47:26are just too dumb to solve some of them.
+47:30But once we've actually got AIs on the scene, maybe AI-enhanced humans, then maybe we're
+47:34going to be able to cross those thresholds where the AI-enhanced humans or maybe just
+47:39the AGIs end up solving some of those hard problems of philosophy for once and for all.
+47:44Great, Ray, you have been a true pioneer in articulating positive visions of the future
+47:49in your writing.
+47:50So if you picked the one that you're most excited about now, what would that be?
+47:54So imagine going back 10,000 years and asking the quintessential caveman and woman,
+48:01Gee, what is a beneficial future?
+48:03What would you like to see?
+48:04And they would say, well I would like this fire to stop going out and I would like a
+48:09bigger boulder to prevent the animals from getting in the cave.
+48:12Anything else?
+48:13Well no I think that would be pretty perfect.
+48:16Well don't you want a better website and apps and search engines?
+48:24Imagine going back 2 million years ago and talking to primates - imagine if you could do that,
+48:29and saying, isn't it great that frontal cortex is coming and we're going to
+48:34have additional neocortex and and a hierarchy and they say, well what's the point of that?
+48:38And you say, well you'll have music and humor, and their answer would be, what's music?
+48:45What's humor?
+48:47So they couldn't imagine concepts that they couldn't imagine, and by analogy I think we
+48:55will have new phenomena that are as profound as music and humor, you could call it more
+49:00profound music and we'll be funnier, but I think it'll be as profound as these great
+49:06leaps that evolution has brought us, because we will become profoundly smarter and if music
+49:14and humor are up here and we go to even higher levels of the neocortex, we're going to have
+49:21more profound ways of expressing ourselves and once we have that we would not want to
+49:25go back.
+49:27What about you, Bart?
+49:28Well, I pretty much agree that we can't really predict much in advance, what we would like to have.
+49:34For myself personally I see the developments in mathematics and science and discovery,
+49:40and computers are just the hybrids of human computers there is quite incredible and makes the field -
+49:49makes what we do much more exciting.
+49:50So I think that will be in the near future the first thing.
+49:53Great, and what about you, Stuart?
+49:57Well, so like Jeffrey Sachs - I think that for many of us, and probably like the cavemen
+50:08- that for many of us life is pretty amazing, and for many more of us it isn't.
+50:15And I think the best thing that AI can do, the big upside, is actually to fix the latter problem.
+50:22I mean I love Nick's feeling that there are higher states of being that are so far above
+50:29our current 'pretty good', that that balances out all the 'pretty bad' that a lot of people are suffering.
+50:38But I really think the emphasis should be on the 'pretty bad' and fixing it, and eliminating
+50:42- so Demis was reading my notes apparently, from across the room - but eliminating the
+50:48scarcity basically eliminates the need for people to act in a zero-sum fashion where
+50:54they can only get by, by making it less possible for someone else to get by, and I think that's
+50:58the source of a lot of the nastiness that Jeffrey mentioned earlier.
+51:03So I think that would be my main upside, and not having to read so much email,
+51:12that would be the second one.
+51:15And for you, Elon, you've never articulated any visionary ideas about the future as far as I know, either.
+51:24What about now?
+51:26I think I just - I have thought about this a lot, and I think it just really comes down
+51:32to two things, and it's solving the machine-brain bandwidth constraint and democratization of AI.
+51:43I think if we have those two things, the future will be good.
+51:47There was a great quote by Lord Acton which is that
+51:52'freedom consists of the distribution of power and despotism in its concentration.'
+51:59And I think as long as we have - as long as AI powers, like anyone can get it if they want it,
+52:05and we've got something faster than meat sticks to communicate with,
+52:12then I think the future will be good.
+52:16Fantastic, so let's get - I know your caffeine levels are dropping dangerously low, and we
+52:22also have another panel after this, which is going to be really exciting to listen to,
+52:26so let's do a just a few quick questions.
+52:29Make sure that they are actually questions, and say your name and also say,
+52:35pick one person on the panel and address it just to them, OK?
+52:39Yoshua?
+52:43Yoshua Bengio, Montreal.
+52:45And it's for Jaan - I found your presentation very inspiring, and one question I have is
+52:53related to the question of eliciting preferences and values from people.
+53:00Do you think this line of investigation could lead to better democracy, better society,
+53:09more direct democracy, and you know, what do you think about this direction to deal
+53:13with the issue of misuse and things like that.
+53:19Yes, absolutely.
+53:21There could be one code name for this, even, could be like 'Democracy 2.0' or 'U.N. 2.0'
+53:26or something like that.
+53:27So, and as I mentioned in my presentation, just a lot of people today basically want to make the world better,
+53:35but it's kind of hard to distinguish them from people who say they
+53:39want to make the world better.
+53:40So if there was actually kind of like a very easy measuring, like a metric that basically
+53:48would work as a Schelling point, focal point, then I think that would be super helpful.
+53:57And yeah, like democracy was invented like hundreds of years ago so, and clearly we have
+54:02advanced as a civilization and we have better knowledge about how to aggregate preferences.
+54:08And Nicolas Berggruen, over there.
+54:11Thank you, Max. Nicolas Berggruen, so I have a very almost naive question.
+54:17This is a very well-meaning group in terms of, let's say, intentions, but
+54:25who sort of, looking at who else is doing, potentially, AGI, it could be well beyond this group,
+54:32it could be in China, it could be any place.
+54:34And what happens because we've talked about how powerful AGI is, and if Elon is correct,
+54:42if it is distributed fairly, fine.
+54:45But if it isn't, is there a way to monitor today or in a year or in 10 years, because
+54:52once it's out it'll be fast.
+54:55Who is monitoring it, who has a tab on it?
+54:59Because this is self-selected, but beyond...
+55:04Elon or Demis does either one of you want to take a swing at this?
+55:11Well I think this sort of relates to my point I said earlier about trying to build AI at
+55:17the hard part of the 'S' curve, so, which I think is where we sort of are at the moment,
+55:22as far as we can tell, because, you know, it's not easy to make this kind of progress, so you need
+55:27quite a lot of people who are quite smart and that community is pretty small, still,
+55:31even though it's getting rapidly bigger at places like NIPS.
+55:36And so most people know each other, so this is pretty representative of everyone in the
+55:39West, at least, obviously it's harder to know what's happening in China or in Russia, maybe.
+55:45But, you know, I think that you need quite a large footprint of resources,
+55:51people and very smart people and lots of computers and so on.
+55:55So I think that narrows down the scope of the number of groups who can do that,
+56:00and it also means that they're more visible.
+56:03So, you know, I think certainly in the West I think most people around here,
+56:08someone in this room will have contact with somebody who's in those groups who are capable of
+56:14making meaningful progress towards AGI.
+56:16It's harder to know in the East and further apart, but we should try and make links to
+56:21those Chinese National Academy of Sciences, and so on, to find out more.
+56:26But you know that may change in the future, I think that's the current state of it.
+56:30Great, it's - the bad news is it's getting later in the day and we only have time for one more question.
+56:36The good news is there's a coffee break right after this so you can ask all of your questions
+56:39if you swarm the panel.
+56:40And the last question goes to you, Erik.
+56:42Do you want to stand up?
+56:43Erik Brynjolfsson, MIT.
+56:45I'm going to pick up on the thing that Elon said at the end about democratizing the outcome
+56:50and tie it back to the panel yesterday where Reid Hoffman talked about people caring
+56:55a lot about not just absolute income but relative income, and I wanted to get the panelists'
+57:00reactions to the thoughts about whether or not AI had tendencies towards winner-take-all
+57:05effects, that there's a tendency for concentration, that whoever's ahead can pull further ahead,
+57:11or whether there's potential for more widespread democratic access to it,
+57:17and what kinds of mechanisms we can put in place if we want to have the widely shared prosperity that Elon suggested?
+57:26Elon, do you want to take that?
+57:30Yeah, well, I mean I have to say that when something is a danger to the public, then
+57:40there needs to be some - I hate to say government agency, like regulators -
+57:46I'm not the biggest fan of regulators, 'cause they're a bit of a buzzkill.
+57:53But the fact is we've got regulators in the aircraft industry, car industry, I deal with them all the time,
+58:00with drugs, food - and anything that's sort of a public risk.
+58:06And I think this has to fall into the category of a public risk.
+58:12So I think that the right thing to do, and I think it will happen, the question is whether
+58:16the government reaction speed matches the advancement speed of AI.
+58:23Governments react slowly - or governments move slowly and they tend to be reactive,
+58:28as opposed to proactive.
+58:32But you can look at these other industries and say, does anybody really want the FAA to go away?
+58:37and it's like people could just be a free for all for aircraft - like, probably not.
+58:41You know, there's a reason it's there or just people could just do any kind of drugs and
+58:48maybe they work, maybe the don't.
+58:50You know, we have that in supplements, kind of ridiculous.
+58:54But I think on balance FDA is good, so I think we probably need some kind of regulatory authority
+59:03and I think it's, like a rebuttal to that is, well people will just move to Costa Rica or something.
+59:09That's not true.
+59:11OK, we don't see Boeing moving to Costa Rica or to Venezuela or wherever it's like free and loose
+59:22To Demis' point, the AI is overwhelmingly likely to be developed where there is a concentration
+59:29of AI research talent.
+59:32And that happens to be in a few places in the world.
+59:39It's Silicon Valley, London, at Boston, if you sort of figure out a few other places,
+59:44but it's really just a few places that really regulators could reasonably access.
+59:53And I want to be clear, it's not because I love regulators, OK?
+59:57They're a pain in the neck but they're necessary to preserve the public at times.
+60:03Alright, on that note, let's thank the panel for a fascinating discussion.
