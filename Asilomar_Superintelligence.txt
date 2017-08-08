@@ -424,32 +424,32 @@
 30:00Stuart?
 30:03So there are two things that keep me awake at night, other than email.
 30:09So, one is the problem of misuse and bad actors.
-30:14To take an analogy, it’s as if we were building nuclear weapons and then delivering them by
-30:20email to everybody on the planet, saying, here’s a toy, do what you want.
-30:26How do we counter that? I have to say, I don’t really have a good solution.
+30:14To take an analogy, it's as if we were building nuclear weapons and then delivering them by
+30:20email to everybody on the planet, saying, here's a toy, do what you want.
+30:26How do we counter that? I have to say, I don't really have a good solution.
 30:31I think one of the things we have to do is to make designs for safe AI very clear and
 30:41simple, and sort of make it unthinkable to do anything other than that, right?
-30:45Just like it’s unthinkable to have a program with an infinite loop that produces a spinning
+30:45Just like it's unthinkable to have a program with an infinite loop that produces a spinning
 30:50pizza of death on your -- oh sorry.
-30:53Or it’s unthinkable to have a buffer overflow that allows your software to be hacked into.
+30:53Or it's unthinkable to have a buffer overflow that allows your software to be hacked into.
 31:01The other thing that keeps me awake is actually the possibility that success would lead to
 31:10AI as a helicopter parent for the human race that would sort of ossify and gradually enfeeble
 31:17us, so then there would be no point at which it was obvious to us that this was happening.
 31:25And I think the mitigation, which you asked for, to look on the bright side, is that in
 31:31some sense the meta-value of human evolvability, the freedom to change the future, is something
 31:41that the AI needs to adopt, and in some sense that would result eventually with the AI receding
-31:48into the background, and saying, OK, now I’ve got you through your adolescence, now it’s
+31:48into the background, and saying, OK, now I've got you through your adolescence, now it's
 31:53time for the human race to grow up, now that we have the capabilities to eliminate scarcity,
 31:58to eliminate needless conflict and coordination failures and all of those things that we suffer
 32:03from right now.
 32:06So I can imagine a distant future where, in fact, AI is perhaps even less visible than it is
 32:11today.
 32:12Great, finally you, Elon, have as far as I know never ever expressed any concerns about
-32:18AI, right - I’m just wondering if there is any concerns, in particular any concerns
-32:29where you see there’s a very clear thing we should be doing now that are going to help.
-32:35I’m trying to think of what is an actual good future, what does that actually look
+32:18AI, right - I'm just wondering if there is any concerns, in particular any concerns
+32:29where you see there's a very clear thing we should be doing now that are going to help.
+32:35I'm trying to think of what is an actual good future, what does that actually look
 32:41like, or least bad, or however you want to characterize it.
-32:49Because to a point that was made earlier by Sam and maybe made by others, we’re headed towards either
+32:49Because to a point that was made earlier by Sam and maybe made by others, we're headed towards either
 32:57superintelligence or civilization ending.
 33:01Those are the two things that will happen - intelligence will keep advancing, the only
 33:07thing that would stop it from advancing is something that puts civilization into stasis
@@ -464,16 +464,16 @@
 33:5430 years ago.
 33:56If you have an Internet link you have an article of wisdom, you can communicate to millions
 34:01of people, you can communicate to the rest of Earth instantly.
-34:06I mean, these are magical powers that didn’t exist, not that long ago.
+34:06I mean, these are magical powers that didn't exist, not that long ago.
 34:11So everyone is already superhuman, and a cyborg.
 34:16The limitation is one of bandwidth.
-34:20So we’re bandwidth-constrained, particularly on output.
+34:20So we're bandwidth-constrained, particularly on output.
 34:24Our input is much better but our output is extremely slow.
-34:28If you want to be generous you could say maybe it’s a few hundred bits per second, or a
+34:28If you want to be generous you could say maybe it's a few hundred bits per second, or a
 34:33kilobit or something like that output.
 34:35The way we output is like we have our little meat sticks that we move very slowly and push
 34:43buttons, or tap a little screen.
-34:47And that’s extremely slow.
+34:47And that's extremely slow.
 34:50Compare that to a computer which can communicate at the terabyte level.
 34:55These are very big orders of magnitude differences.
 34:59Our input is much better because of vision, but even that could be enhanced significantly.
@@ -481,54 +481,54 @@
 35:14is good, most likely, is, we have to solve that bandwidth constraint with a direct neural
 35:23interface.
 35:24I think a high bandwidth interface to the cortex, so that we can have a digital tertiary
-35:29layer that’s more fully symbiotic with the rest of us.
-35:36We’ve got the cortex and the limbic system, which seem to work together pretty well - they’ve
+35:29layer that's more fully symbiotic with the rest of us.
+35:36We've got the cortex and the limbic system, which seem to work together pretty well - they've
 35:41got good bandwidth, whereas the bandwidth to additional tertiary layer is weak.
 35:48So I think if we can solve that bandwidth issue and then AI can be widely available.
-35:55The analogy to a nuclear bomb is not exactly correct - it’s not as though it’s going
-36:00to explode and create a mushroom cloud, it’s more like if there were just a few people
+35:55The analogy to a nuclear bomb is not exactly correct - it's not as though it's going
+36:00to explode and create a mushroom cloud, it's more like if there were just a few people
 36:08that had it they would be able to be essentially dictators of Earth, or whoever acquired it
 36:18and if it was limited to a small number of people and it was ultra-smart, they would
 36:23have dominion over Earth.
-36:24So I think it’s extremely important that it be widespread and that we solve the bandwidth
+36:24So I think it's extremely important that it be widespread and that we solve the bandwidth
 36:29issue.
 36:31And if we do those things, then it will be tied to our consciousness, tied to our will,
 36:38tied to the sum of individual human will, and everyone would have it so it would be
 36:44sort of still a relatively even playing field, in fact, it would be probably more egalitarian
 36:51than today.
-36:53Great, thank you so much, that’s in fact the perfect segue into the last question I
+36:53Great, thank you so much, that's in fact the perfect segue into the last question I
 36:57want to ask you before we open it up to everybody.
 37:01Something I have really missed in the discussion about really advanced intelligence, beyond
 37:08human, is more thought about the upside.
 37:12We have so much talk about existential risk, and not just in the academic context, but
 37:20just flip on your TV, check out Netflix, what do you see there in these scientific visions
 37:28of the future?
-37:29It’s almost always dystopias, right?
+37:29It's almost always dystopias, right?
 37:31For some reason fear gives more clicks than the positive visions, but if I have a student
-37:37coming into my office at MIT asking for career advice, the first thing I’m going to ask
+37:37coming into my office at MIT asking for career advice, the first thing I'm going to ask
 37:42her is, where will you want to be in 20 years?
-37:46And if she just says, well maybe I’ll get cancer, maybe I’ll get run over by a bus,
-37:52that’s a terrible way to think about career planning, right?
+37:46And if she just says, well maybe I'll get cancer, maybe I'll get run over by a bus,
+37:52that's a terrible way to think about career planning, right?
 37:55I want her to be on fire and say my vision is I want to do this - and here are the things
 38:00that could go wrong, and then you can plan out how to avoid those problems and get it
-38:04out - I would love to see more discussion about the upsides, futures we’re really
+38:04out - I would love to see more discussion about the upsides, futures we're really
 38:09excited about, so we can not just try to avoid problems for the sake of avoiding problems,
-38:16but to get to something that we’re all really on fire about.
-38:19So to start off I’ll just tell you something that makes me really excited about advanced
+38:16but to get to something that we're all really on fire about.
+38:19So to start off I'll just tell you something that makes me really excited about advanced
 38:26artificial intelligence.
 38:28Everything I love about civilization is a product of intelligence.
-38:34If we for some reason were to say, well, you know, I’m scared about this technology thing, let’s
-38:38just press pause on it forever, there’s no interesting question about if we’re going
+38:34If we for some reason were to say, well, you know, I'm scared about this technology thing, let's
+38:38just press pause on it forever, there's no interesting question about if we're going
 38:45to have human extinction, the question is just ‘when?'
 38:49Is it going to be a supervolcano, is it going to be the next dinosaur-killing-class asteroid
 38:56- the last one happened 60 million years ago, so how long is it going to be?
-39:01Pretty horrible future to just sit and wonder when we’re going to get taken out here without
+39:01Pretty horrible future to just sit and wonder when we're going to get taken out here without
 39:05the technology when we know that we totally have the brainpower to solve all of these
 39:10problems if we proceed forward and develop technology.
 39:14So that was just one thing that makes me very excited about moving forward rather than pressing 'Pause.'
 39:22I want to just ask the same question to all of you guys in turn.
 39:24So tell us, just pretty briefly, about something that you are really excited about.
-39:30Some future vision you imagine with very advanced artificial intelligence that you’re really excited about, that you would like to see.
+39:30Some future vision you imagine with very advanced artificial intelligence that you're really excited about, that you would like to see.
 39:37Jaan-
 39:38So I want to be careful when I imagine concrete fruits of AGI.
 39:48On a meta-level I think as a first approximation, I think we should just maximize the amount
@@ -539,13 +539,13 @@
 40:14I think Eliezer has this sketch where he says, “It was hard to spend like one weekend with my relatives.
 40:20Imagine spending eternity with your dead relatives.”
 40:27So I think we should be concerned about side effects and try to capture dynamics of improvement,
-40:35and basically go from there - make sure that we’re going to adjust the trajectory as
+40:35and basically go from there - make sure that we're going to adjust the trajectory as
 40:42we get smarter and more grown together.
 40:48Great, thank you, Jaan.
 40:49Sam, what do you get excited about?
 40:52Well, strangely, what excites me really just abuts the parts that scare me the most.
 40:59I think what is nice about this conversation, in particular about the alignment problem,
-41:05is that it’s forcing us to realize that there are better and worse answers to questions
+41:05is that it's forcing us to realize that there are better and worse answers to questions
 41:10of human value.
 41:12And as someone said, perhaps at this last meeting in Puerto Rico, we really have to
 41:16do philosophy on a deadline, and we have to admit to ourselves that there are better and
@@ -553,7 +553,7 @@
 41:25And what would excite me about actually the birth of superintelligent AI - one of the things,
 41:30apart from solving obvious problems like curing disease and energy issues and all the rest,
 41:37perhaps differs a little bit with what Stuart said.
-41:41I’m not so worried about idiocracy or all of us just losing our way as apes and living
+41:41I'm not so worried about idiocracy or all of us just losing our way as apes and living
 41:53unproductive lives in dialogue with these oracles.
 41:58I think actually, I would want a truly value-aligned superintelligence to incrementally show us,
 42:08not merely conserve what we want, but show us what we should want to keep improving our
@@ -561,29 +561,29 @@
 42:19better and better ones.
 42:20Thank you, Sam, and what about you, Demis?
 42:22So obviously this is why I spend my whole career working on this, is that, I think if
-42:26we do this right, it’s going to be the greatest thing ever to happen to humanity,
+42:26we do this right, it's going to be the greatest thing ever to happen to humanity,
 42:30and in some ways I think unlock our full potential.
-42:33I mean, I’ve talked to a lot about, in all my talks about using it as a tool to help
+42:33I mean, I've talked to a lot about, in all my talks about using it as a tool to help
 42:37us make science and medical breakthroughs faster.
-42:39And so I think that’s an obvious one.
+42:39And so I think that's an obvious one.
 42:41But taking that longer-term, one reason I got so into AI is that, like probably many
-42:45of you in this room, I’m interested in the biggest questions of why we’re here, understanding
-42:50our minds, what is consciousness, what’s the nature of the universe, what’s our purpose
-42:55- and if we’re going to try and really grapple with any of those questions I think we’re
+42:45of you in this room, I'm interested in the biggest questions of why we're here, understanding
+42:50our minds, what is consciousness, what's the nature of the universe, what's our purpose
+42:55- and if we're going to try and really grapple with any of those questions I think we're
 42:59going to need something like AI, perhaps with ourselves enhanced as well.
-43:02And I think in that future world we’ll have a chance to actually find out about some of
-43:07these really deep questions in the same way we’re finding out with AlphaGo just about Go,
+43:02And I think in that future world we'll have a chance to actually find out about some of
+43:07these really deep questions in the same way we're finding out with AlphaGo just about Go,
 43:13but what if we could do that with all of science and physics and the biggest questions
 43:17in the universe.
-43:19And I think that’s going to be the most exhilarating journey of all, to find that out.
+43:19And I think that's going to be the most exhilarating journey of all, to find that out.
 43:24To just carry out on a few other things that people commented on is in terms of
 43:28us as the most intelligent beings on the planet right now, and treating animals badly and these
-43:33sorts of things, I think if you think about it though - let’s take tigers or something in India.
-43:38They have huge ranges and those people are very poor and they’re resource-poor, but
-43:43if they had abundant resources I don’t think they’re intentionally trying to kill off
-43:46these tigers - in some cases they are - but often it’s just because they need the land
+43:33sorts of things, I think if you think about it though - let's take tigers or something in India.
+43:38They have huge ranges and those people are very poor and they're resource-poor, but
+43:43if they had abundant resources I don't think they're intentionally trying to kill off
+43:46these tigers - in some cases they are - but often it's just because they need the land
 43:51for their cattle, and the tiger needs whatever number of kilometers squared to live, one tiger.
-43:57And it’s just difficult with the number of people that are there.
+43:57And it's just difficult with the number of people that are there.
 43:59So I think if we solve the kind of abundance and scarcity problem, then I think that opens up
 44:04a lot of conflicts both between humans as well as to do with resource scarcity, at the heart of it.
 44:10So I see, if we can solve a lot of these problems I can see a much better future.
@@ -597,32 +597,32 @@
 44:40But then beyond that, if one really wants to see realistically what the positive things
 44:45are that could be developed, I think one has to think outside the constraints of our current
 44:53human biological nature.
-44:54That it’s unrealistic to imagine a trajectory stretching hundreds of thousands of years
+44:54That it's unrealistic to imagine a trajectory stretching hundreds of thousands of years
 44:59into the future, we have superintelligence, we have material abundance, and yet we are
 45:03still these bipedal organisms with three pounds of gray tissue matter, with a fixed set of
 45:13emotional sensitivities and the hedonic set point that is kind of OK-ish for most people
-45:17but if you get - if something really good happens it lasts for a time and then you’re
+45:17but if you get - if something really good happens it lasts for a time and then you're
 45:22back to the baseline.
 45:23I think all of these basic parameters that sort of define the human game today, I think
 45:27become up for grabs in this future.
 45:30And it opens up this much vaster space of post-human modes of beings, some of which
 45:36I think could be wonderful, literally beyond our ability to imagine, in terms of the mental states,
 45:43the types of activities, the understanding, the ways of relating.
-45:48So I don’t think we need a detailed blueprint for utopia now, what we need is to get ourselves
+45:48So I don't think we need a detailed blueprint for utopia now, what we need is to get ourselves
 45:52in a position later on where we can have the ability to use this to realize the values
-45:59that come into view once we’ve taken steps forward.
+45:59that come into view once we've taken steps forward.
 46:02Thank you, Nick.
 46:03What about you, David?
-46:05I’m excited about the possibilities for AI making us humans smarter.
+46:05I'm excited about the possibilities for AI making us humans smarter.
 46:09I mean some of it is selfish - I turned 50 last year, my brain is gradually becoming
-46:17slower and older and dumber, but I’m not sure that I am, and that’s partly because
-46:23of all of the augmented intelligence technology we’re using.
-46:28Smartphones, and the Internet, and so on, they’re giving me all kinds of capacities,
-46:33extended capacities that I didn’t have before.
-46:36And I’m really looking forward to AI helping with that.
+46:17slower and older and dumber, but I'm not sure that I am, and that's partly because
+46:23of all of the augmented intelligence technology we're using.
+46:28Smartphones, and the Internet, and so on, they're giving me all kinds of capacities,
+46:33extended capacities that I didn't have before.
+46:36And I'm really looking forward to AI helping with that.
 46:39In ten years or so once everyone is wearing augmented reality glasses with deep learning
-46:44built into it, then I’m really going to need that around 60.
-46:49And if you guys really get on the case and by the time I’m 70 or so we've got
+46:44built into it, then I'm really going to need that around 60.
+46:49And if you guys really get on the case and by the time I'm 70 or so we've got
 46:55real genuine AI or AI modules out there which can somehow come to be integrated with my
 47:02brain processes or maybe eventually we get to upload our entire brains onto AI, then there's a
 47:09way potentially to get smarter, more intelligent forever.
