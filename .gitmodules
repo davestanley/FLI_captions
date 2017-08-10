@@ -1,0 +1,3 @@
+[submodule "MatlabNLP"]
+	path = MatlabNLP
+	url = git@github.com:faridani/MatlabNLP.git

@@ -48,9 +48,9 @@ for i = 1:N
         if i > 1
             curr = double(At{i});
             prev = double(At{i-1});
-            clc
-            char(curr)
-            char(prev)
+%             clc
+%             char(curr)
+%             char(prev)
             [instc,edges] = histcounts(curr(:),sort(unique([curr prev Inf])));       % Current counts (sort is not really necessary, since unique sorts by default)
             [instp,edges] = histcounts(prev(:),sort(unique([curr prev Inf])));       % Prev counts
             edges = edges(1:end-1);     % Remove Inf. Inf was included above to capture the final unique value, since we're dealing with edges, not bins.
@@ -127,6 +127,11 @@ for i = 1:length(AC)
     end
 end
 
+%% Remove everything except letters from English (tokenize)
+AE2 = cellfun(@tokenize_chars,AE,'UniformOutput',0);
+AE2 = cellfun(@(s) strrep(s,' ',''),AE2,'UniformOutput',0);
+
+
 %% Load original text with times - this will be our library!
 script_get_text_only;
 % This should return return Mytext and Mytimes
@@ -148,24 +153,26 @@ ind = ~cellfun(@isempty,mytext);
 mytimes = mytimes(ind);
 mytext = mytext(ind);
 
+%% Tokenize mytext. Rename to lines
+lines = cellfun(@tokenize_chars,mytext,'UniformOutput',0);
+lines = cellfun(@(s) strrep(s,' ',''),lines,'UniformOutput',0);
+
 
 %% Convert mytext to single long char array. Interpolate mytimes
 
 % For each line, calculate the absolute time as a numeric
-lines_t = cellfun(@datenum, mytimes, 'UniformOutput',true);
+lines_t = cellfun(@(n) datenum(n,'MM:SS'), mytimes, 'UniformOutput',true);      % Possibly need to add HH here
 
 % For each line, record the location of the new line in terms of characters
-lines_N = cellfun(@length,mytext(:)');
+lines_N = cellfun(@length,lines(:)');
 lines_N = cumsum(lines_N);
 lines_N = [1, lines_N(1:end-1)];
 
-% Rename mytext to lines
-lines = mytext;
 
 % Do the interpolation
 chars = [lines{:}];
 chars_N = 1:length(chars);
-chars_t = interp1(lines_N,lines_t,chars_N);
+chars_t = interp1(lines_N,lines_t,chars_N,'linear','extrap');
 
 
 %% Find the sentence start and end times
@@ -180,11 +187,14 @@ anchor = 1;
 mismatch_thresh = 0;    % Number of permitted mismatches.
 
 for i = 1:length(A_times)
-    curr = AE{i};                           % Current English line
+
+%     clc
+    curr = AE2{i};                           % Current English line
     sstart = max(1,anchor-backtrack);                                   % Starting segment is backtrack spaces before the anchor
     sstop = min(anchor+length(curr)+forwardtrack,length(chars));        % Ending segment is the length of the English line plus forwardtrack
     segment = chars(sstart:sstop);          % Take a segment from chars around the anchor that will form our search basin.
-    segment_t = chars(sstart:sstop);
+    segment_t = chars_t(sstart:sstop);
+    segment_N = chars_N(sstart:sstop);
     
     % Sweep through segment and find number of mismatched characters at
     % each sweep value
@@ -199,80 +209,83 @@ for i = 1:length(A_times)
     
     % Record estimated time of Chinese text
     A_times(i) = segment_t(I);
+    A_N(i) = segment_N(I);
     
     % Record English original and English matching text
     reconstruct{i} = segment(I:I+length(curr)-1);
     chars_I(i) = I;
     
     % Update anchor
-    anchor = anchor + I + length(curr) - 1;
+    anchor = sstart + I + length(curr) - 1;
 end
 
 
 
-
-
-%% Find times of sentence starting and ending
-NE = length(AE);
-maxstarting = 20; 
-clear ind
-for i = 1:NE
-    ind{i} = [];
-%     i
-%     for j = 1:length(mytext)
-%         ind_temp = strfind(mytext{j},AE{i}(1:min(end-2,maxstarting)));
-%         if ~isempty(ind_temp)
-%             ind{i} = [ind{i}, j];
-%         end
-%     end
-
-    if i == 1
-        start = 1;
-    else start = ind{i-1}+1;
-    end
-    
-    for j = start:start+15             % Start from prev and search in range
-        %[mytext{j} 'vs ' AE{i}(1:min(end-2,maxstarting))]
-        ind_temp = strfind(mytext{j},AE{i}(1:min(end-2,maxstarting)));
-        if ~isempty(ind_temp)
-            %fprintf('found \n');
-            ind{i} = j;
-            break;          % Break out once found
-        end
-    end
-    
-end
-
-clear reconstruct
-for i = 1:length(ind)
-    if ~isempty(ind{i})
-        reconstruct{i} = mytext{ind{i}};
-    end
-end
-reconstruct=reconstruct';
+%% Do comparison
 
 clear compare
-mylen = 10;
-for i = 1:length(ind)
-    compare{i} = [AE{i}(1:min(end-2,mylen)) ' vs. ' reconstruct{i}(1:min(end,mylen))];
+mylen = 30;
+for i = 1:length(reconstruct)
+    N1 = length(AE2{i});
+    N2 = length(reconstruct{i});
+    mycompare{i} = [AE2{i}(1:min(N1,mylen)) ' vs. ' reconstruct{i}(1:min(N2,mylen))];
 end
-compare=compare';
+mycompare=mycompare';
 
-%% Save the text and the times separately
+
+%% Convert A_times from double to time
+% A_timestr = arrayfun(@(d) datestr(d,'HH:MM:SS'),A_times,'UniformOutput',false);
+
+%% Convert to SRT format
+
+Nperline = 4;
+myformat = 'HH:MM:SS,FFF';
+seconds_per_day = (24*60*60);
+mysrt = cell(1,Nperline*length(A_timestr));
+for i = 1:length(A_timestr)
+    mysrt{Nperline*(i-1)+1} = num2str(i);
+    if i < length(A_timestr)
+        mysrt{Nperline*(i-1)+2} = [ datestr(A_times(i),myformat) ' --> '  datestr(A_times(i+1)-0.1/seconds_per_day,myformat)];
+    else
+        % If at end of video, display last caption for 5 seconds
+        mysrt{Nperline*(i-1)+2} = [ datestr(A_times(i),myformat) ' --> '  datestr(A_times(i)+5/seconds_per_day,myformat)];
+    end
+    mysrt{Nperline*(i-1)+3} = AC{i};
+    mysrt{Nperline*(i-1)+4} = '';
+end
+
+%% Save the Chinese text
 
 [~,name,ext] = fileparts(filename);
-filename_times = [name,'_times',ext];
-filename_text = [name,'_text',ext];
+name_ch = [name '_ch'];
+filename_times = [name_ch,'_times',ext];
+filename_text = [name_ch,'_text',ext];
+filename_both = [name_ch,'',ext];
+filename_srt = [name_ch,'','.srt'];
 
-fileID = fopen(filename_text,'w');
-for i = 1:length(mytext)
-    fprintf(fileID,[mytext{i} '']);
+% % Text
+% fileID = fopen(filename_text,'w');
+% for i = 1:length(AC)
+%     fprintf(fileID,[AC{i} '']);
+% end
+% fclose(fileID);
+% 
+% % Times
+% fileID = fopen(filename_times,'w');
+% for i = 1:length(A_timestr)
+%     fprintf(fileID,[A_timestr{i} '\n']);
+% end
+
+% Both
+fileID = fopen(filename_both,'w');
+for i = 1:length(A_timestr)
+    fprintf(fileID,[A_timestr{i} AC{i} '\n']);
 end
 fclose(fileID);
 
-
-fileID = fopen(filename_times,'w');
-for i = 1:length(A2)
-    fprintf(fileID,[A2{i} '\n']);
+% SRT
+fileID = fopen(filename_srt,'w');
+for i = 1:length(mysrt)
+    fprintf(fileID,[mysrt{i} '\n']);
 end
 fclose(fileID);
